@@ -7,6 +7,7 @@
 
 # My Project Working:
 [Auto publish DWG to PDF](https://github.com/huypham0808/Autopublish_AutoCAD_Plug-in) - The plug-in helps auto-publish all layouts in a DWG file to a single PDF file with one click.
+[Auto Align AutoCAD Block](https://github.com/huypham0808/Align-Block)- The plug-in help auto align AutoCAD Block entities follow up source object position with horizontal or vertical direction
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=huypham0808&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
